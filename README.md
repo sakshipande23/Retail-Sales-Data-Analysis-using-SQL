@@ -10,7 +10,7 @@ This project focuses on analyzing retail sales data using SQL. It includes:
 
 The project includes:
 - `retail_sales_data.csv` – the dataset.
-- `retail_sales_data_analysis.sql` – the SQL file containing all queries.
+- `retail sales data analysis sql file` – the SQL file containing all queries.
 
 > Ideal for practicing data cleaning, aggregation, and analysis using SQL.
 
